@@ -39,6 +39,7 @@ Unity 기반의 Multi-Play 가능한 Open World 게임이다. 서버는 node js�
 ### Dance in Club
 
 집 모양의 클럽으로 들어가면 플레이어 모션이 춤추는 모션으로 전환된다. 클럽 내의 NPC들과 같이 춤을 출 수 있다.
+<div align=center> <img src = "https://user-images.githubusercontent.com/48681924/151155699-eab55d5d-ff08-437b-8f75-0eb3b572d11c.png" width="80%" height="80%"></div>
 
 ---
 
